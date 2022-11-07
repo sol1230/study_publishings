@@ -1,0 +1,55 @@
+* {
+  margin-bottom: 5px;
+}
+
+.dotted {
+  border-style: dotted;
+}
+
+.double {
+  border-style: double;
+}
+
+.solid {
+  border-style: solid;
+}
+
+.mixed {
+  border-style: solid double dotted dashed;
+}
+
+.solid-5px {
+  border-width: 5px;
+  border-style: solid;
+}
+
+.mixed-5px {
+  border-style: solid;
+  border-width: 1px 3px 5px 7px;
+}
+
+.solid-purple {
+  border-style: solid;
+  border-color: purple;
+}
+
+.mixed-color {
+  border-style: solid;
+  border-color: blue rgba(255, 0, 0, 1) rgba(0, 255, 0, 0.5) seagreen;
+}
+
+.solid-red {
+  border-style: solid;
+  border-color: rgba(255, 0, 0, 1) rgba(255, 0, 0, 0.5) rgba(255, 0, 0, 0.75)
+    rgba(255, 0, 0, 0.25);
+}
+
+.solid-green {
+  border-style: solid;
+  border-color: green;
+}
+
+.dotted-blue {
+  border-style: dotted;
+  border-color: blue;
+}
