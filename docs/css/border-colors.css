@@ -1,3 +1,7 @@
+* {
+  margin-bottom: 5px;
+}
+
 .solid-red {
   border-style: solid;
   border-color: rgba(255, 0, 0, 1) rgba(255, 0, 0, 0.5) rgba(255, 0, 0, 0.75)
@@ -12,5 +16,6 @@
 
 .dotted-blue {
   border-style: dotted;
-  border-color: blue;
+  border-color: rgba(0, 0, 255, 1) rgba(0, 0, 255, 0.5) rgba(0, 0, 255, 0.75)
+    rgba(0, 0, 255, 0.25);
 }
