@@ -1,0 +1,25 @@
+.solid {
+  border: 5px solid black;
+}
+
+.mid-color {
+  width: 500px;
+  margin: auto;
+  background-color: orange;
+  padding: 0 20px 20px 20px;
+}
+
+.back_color_blue {
+  background-color: #00539f;
+}
+
+.color_blue {
+  color: rgb(40, 40, 141);
+  text-shadow: 2px 2px black;
+  font-size: 50px;
+}
+
+.img {
+  margin: auto;
+  display: block;
+}
