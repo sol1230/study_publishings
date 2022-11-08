@@ -1,0 +1,39 @@
+.title {
+  font-size: 30px;
+  font-weight: 900;
+  color: purple;
+}
+
+.content {
+  color: purple;
+  width: 600px;
+  margin: 20px 0px 30px 30px;
+}
+
+.back-color {
+  background-color: #d8da3d;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: center;
+  width: 500px;
+  padding: 0 20px 20px 20px;
+}
+
+.link {
+  margin: 10px;
+  padding: 50px 0px 0px 0px;
+  width: 100;
+}
+
+.link > li {
+  margin: 10px;
+  padding: 5px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  justify-content: space-around;
+  background-color: white;
+  border-right: 10px solid black;
+}
