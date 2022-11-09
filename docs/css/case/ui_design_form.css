@@ -1,0 +1,31 @@
+.solid {
+  border: 1px solid black;
+  width: 600px;
+}
+
+.content-a {
+  text-align: center;
+}
+
+.content-b {
+  padding: 0px 5px 100px 0px;
+  margin: 0px 0px 5px 0px;
+}
+
+.center {
+  margin-left: 150px;
+}
+
+.button {
+  margin: 0px 30px 0px 30px;
+}
+
+.color-orange {
+  text-align: center;
+  background-color: rgb(255, 160, 122);
+  color: white;
+}
+
+.color-yellow {
+  background-color: rgb(255, 254, 224);
+}
